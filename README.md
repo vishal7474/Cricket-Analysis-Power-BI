@@ -17,4 +17,4 @@ Insightful Visualization: Utilized a range of filters to assess players and iden
 Best XI Selection: By carefully considering the insights generated through data analysis and visualization, we identify the best combination of players for each key performance category to form the ultimate World Cup T20 2022 Best XI.
 
 Snapshots:
-![image](https://github.com/vishal7474/Cricket-Analysis-Power-BI/assets/76614698/962e7820-bfd6-4946-8429-5ccb3291528f)
+![Screenshot 2023-08-21 125140](https://github.com/vishal7474/Cricket-Analysis-Power-BI/assets/76614698/57da1d77-1784-4720-b21a-b2f5b3b65397)
